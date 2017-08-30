@@ -1,2 +1,2 @@
 # Data_Structure
-BUGs were found on Llmerge.cpp and mtrx.h
+BUGs were repairable on Llmerge.cpp and mtrx.h
