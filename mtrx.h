@@ -198,5 +198,5 @@ void usin(int ** mtrx,int R,int L)
    2)使用可以用分数表示的，数据格式  
 
     乘法运算（二元）时，列为1*数据错误
-	没有完成释放矩阵的步骤（#include <stdlib.h>/*用到molloc函数*/）
+	没有完成释放矩阵的步骤（#include <stdlib.h>/*用到molloc函数*/
 */
